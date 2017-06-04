@@ -2,3 +2,5 @@ This is test 01
 
 I made some (conflicting maybe) changes.
 made some changes from GitHub (this is not correct way)
+
+This is in branch master
